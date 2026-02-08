@@ -26,7 +26,9 @@ It demonstrates state management, conditional rendering, and clean CSS structure
 
 ## 📸 Preview
 
-![Preview](https://github.com/user-attachments/assets/c11d557b-5ba4-4f2e-be01-d9f12c017fd6)
+![Preview](https://github.com/user-attachments/assets/2d53f2ce-7838-4fb7-b300-7168517320aa)
+
+
 
 ---
 
