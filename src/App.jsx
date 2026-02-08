@@ -5,10 +5,10 @@ function App() {
   const [step, setStep] = useState(0);
 
   function clickHandlerIncrement() {
-    setStep((step) => (step < 3 ? step + 1 : 3));
+    setStep((step) => (step < 3 ? step + 1 : 1));
   }
   function clickHandlerDecrement() {
-    setStep((step) => (step > 0 ? step - 1 : 0));
+    setStep((step) => (step > 1 ? step - 1 : 1));
   }
   return (
     <>

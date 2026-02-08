@@ -10,12 +10,19 @@ body {
 
 /* Container */
 .container {
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   gap: 24px;
+
+  background-color: rgb(204, 213, 187);
+  border-radius: 10px;
+  padding: 24px;
+  width: fit-content; /* card wraps content */
+  margin: 50px auto; /* centers card horizontally */
+
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); /* card depth */
 }
 
 /* Numbers */
