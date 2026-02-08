@@ -35,7 +35,7 @@ It demonstrates state management, conditional rendering, and clean CSS structure
 ## 🛠 Installation & Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/react-stepper.git
+git clone https://github.com/nitinilesh/react-stepper.git
 cd react-stepper
 npm install
 npm run dev
